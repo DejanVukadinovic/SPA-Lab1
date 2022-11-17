@@ -1,0 +1,15 @@
+X&Y
+X|Y
+!X
+(X|Y)|Z
+(X&Y)|Z
+(X&Y)&Z
+(X&Y)|Z&(A|B
+((X|Y)|Z)&((A|B)|(C&D))
+(X&Y)|(Z&(A|B))
+(A|B)&(!C)
+A|(B&(C&(D|E)))
+((X|Y)|(Z&(A|B)))|((C&D)&(D|E))
+(A|B)|(C&D)&(D|E)
+!A&(B|C)
+(A|B)|(C|D)&(D

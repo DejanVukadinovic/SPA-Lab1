@@ -1,0 +1,6 @@
+loopuj kroz string svaki put kad naletis na otvorenu zagradu pocni sabirati vrijednosti operataora
+kad dodjes do prve zatvorene zagrade provjeri da li je vrijednost veca od 2
+	>ako je veca od dva string nije validan izraz
+	>ako je manje od dva string je validan i brise se iz izraza
+>pocetak stringa se tretira kao otvorena zagrada a kraj stringa kao zatvorena zagrada
+>ponavljati dok god string postoji
